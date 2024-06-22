@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EgitimTakip.Data\EgitimTakip.Data.csproj" />
+    <ProjectReference Include="..\EgitimTakip.Models\EgitimTakip.Models.csproj" />
+  </ItemGroup>
+
 </Project>

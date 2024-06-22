@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimTakip.Data", "EgitimT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimTakip.Models", "EgitimTakip.Models\EgitimTakip.Models.csproj", "{B429B41A-FD64-44FD-9EB1-F253EECAB4ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimTakip.Repository", "EgitimTakip.Repository\EgitimTakip.Repository.csproj", "{401CAE04-0563-4097-9097-2685730749BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B429B41A-FD64-44FD-9EB1-F253EECAB4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B429B41A-FD64-44FD-9EB1-F253EECAB4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B429B41A-FD64-44FD-9EB1-F253EECAB4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401CAE04-0563-4097-9097-2685730749BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401CAE04-0563-4097-9097-2685730749BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401CAE04-0563-4097-9097-2685730749BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401CAE04-0563-4097-9097-2685730749BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
